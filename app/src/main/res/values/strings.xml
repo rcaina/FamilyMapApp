@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="username">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="firstname">First Name:</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="appTitle">Family Map: Settings</string>
+    <string name="searchTitle">Family Map: Search</string>
+    <string name="settingsTitle">Family Map: Settings</string>
+    <string name="personTitle">Family Map: Person Details</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_tag">Search</string>
+    <string name="settings_tag">Setting</string>
+    <string name="back_arrow_tag">Back Arrow</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="storyTitle">Life Story Lines</string>
+    <string name="storySubtitle">SHOW LIFE STORY LINES</string>
+    <string name="treeTitle">Family Tree Lines</string>
+    <string name="treeSubtitle">SHOW FAMILY TREE LINES</string>
+    <string name="spouseTitle">Spouse Lines</string>
+    <string name="spouseSubtitle">SHOW SPOUSE LINES</string>
+    <string name="fatherTitle">Fathers Side</string>
+    <string name="fatherSubtitle">FILTER BY FATHERS SIDE OF FAMILY</string>
+    <string name="motherTitle">Mothers Side</string>
+    <string name="motherSubtitle">FILTER BY MOTHERS SIDE OF FAMILY</string>
+    <string name="maleTitle">Male Events</string>
+    <string name="maleSubtitle">FILTER EVENTS BASED ON GENDER</string>
+    <string name="femaleTitle">Female Events</string>
+    <string name="femaleSubtitle">FILTER EVENTS BASED ON GENDER</string>
+    <string name="logoutTitle">Logout</string>
+    <string name="logoutSubtitle">RETURN TO LOGIN SCREEN</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
